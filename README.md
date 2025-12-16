@@ -663,11 +663,12 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus d'informatio
 
 ## 👤 Auteur
 
-**Votre Nom**
+**Bonevy BEBY -Software Engineer* 
 
-- LinkedIn : [Votre Profil](https://www.linkedin.com/in/votre-profil)
-- GitHub : [@votre-username](https://github.com/votre-username)
-- Email : votre.email@example.com
+- LinkedIn : [@bonevybeby](https://www.linkedin.com/in/bonevybeby/)
+- GitHub : [@zoulou421](https://github.com/zoulou421/)
+- Email : bonevybeby@gmail.com
+- Tel: +221 77 862 72 72
 
 ---
 
